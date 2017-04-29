@@ -1,0 +1,16 @@
+Article <--- Read article into memory - Load a list of terms with score (corpus) ---> news index with article name and score and maybe terms
+
+
+Example Article (Article 1.txt:
+I had a great day today but tomorrow is gonna suck really bad. The sun was shining outside today. My teacher gave me an award and I got promoted. 
+
+Terms (corpus):
+great,+4
+suck,-2
+bad,-4
+sun was shining,+2
+award,+3
+promoted,+5
+
+Output from Analytic:
+Article 1.txt|8|great suck bad sun was shining award promoted
