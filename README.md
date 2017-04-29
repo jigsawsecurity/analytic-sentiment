@@ -7,6 +7,9 @@
 2. Output reference data that includes the document name and/or location on the filesystem and the associated reference score
 3. Output data for ingestion in Hadoop and/or Elasticsearch
 
+## Status and Task
+1. Created scoring methodology
+
 ### Contributors
 
 Kevin Wetzel, Vince Peeler
