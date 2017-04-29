@@ -1,0 +1,5 @@
+E:\analytic-sentiment\Article1.txt
+E:\analytic-sentiment\Article2.txt
+E:\analytic-sentiment\Article3.txt
+E:\analytic-sentiment\Article4.txt
+E:\analytic-sentiment\Article5.txt
