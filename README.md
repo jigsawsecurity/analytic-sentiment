@@ -9,7 +9,4 @@
 
 ### Contributors
 
-Kevin Wetzel
-Vince Peeler
-
-
+Kevin Wetzel, Vince Peeler
