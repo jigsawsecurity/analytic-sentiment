@@ -8,7 +8,10 @@
 3. Output data for ingestion in Hadoop and/or Elasticsearch
 
 ## Status and Task
-1. Created scoring methodology
+1. Created scoring methodology - Completed
+2. Proof of Concept Code - In Progress
+3. Load Testing at Scale
+4. Creating Associated Dashboards for Articles with Sentiment Tags
 
 ### Contributors
 
