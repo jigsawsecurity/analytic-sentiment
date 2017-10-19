@@ -1,6 +1,6 @@
 ## Analytic for Sentiment in Text Documents for Elasticsearch and Hadoop
 
-![alt tag](https://ui.slcsecurity.com/img/custom/JSLOGO.png)
+![alt tag](https://ui.jigsaw-security.com/img/custom/JSLOGO.png)
 
 ## Goals of the Project
 1. Generate a score based on keywords identified or patterns of keywords identified in text documents
